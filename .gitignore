@@ -1,0 +1,41 @@
+# Ignore compiled code and build artifacts
+*.o
+*.obj
+*.class
+/target/
+/bin/
+/build/
+/dist/
+/out/
+
+# Ignore dependency directories
+node_modules/
+venv/
+vendor/
+libs/
+
+# Ignore logs and temporary files
+*.log
+*.log.*
+*.tmp
+*.swp
+*~
+
+# Ignore IDE-specific and editor-specific files
+.idea/
+.vscode/
+.project
+
+# Ignore environment and configuration files
+.env
+config.js
+database.config
+
+# Ignore generated files and documentation
+docs/
+generated/
+.cache/
+
+# Custom project-specific excludes
+my-custom-file.txt
+

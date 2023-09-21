@@ -1,0 +1,2 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Wed Jun 28 09:50:16 CEST 2023","Wed Jun 28 09:50:26 CEST 2023","9269","Default Suite","NewJavaProject","methods.LoginTest","methods.LoginTest","login","login",""
